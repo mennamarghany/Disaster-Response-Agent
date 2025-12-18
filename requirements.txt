@@ -1,0 +1,11 @@
+google-genai>=0.1.0
+tensorflow>=2.10.0
+langchain-community
+langchain-huggingface
+langchain-text-splitters
+chromadb
+sentence-transformers
+scikit-learn
+seaborn
+matplotlib
+pillow
